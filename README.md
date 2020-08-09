@@ -13,6 +13,7 @@ What do I 'now know’ that I did not before?
 I did not know there were different types of complexity levels within complex systems
 
 What insights have I gained?
+The different Levels of complexity.
 
 What are (my/the) perceived strengths and weaknesses that i have observed?
 
@@ -25,11 +26,14 @@ What theory proved to be useful and why? What have I learnt from this?
 # Week 2
 
 What have I learnt this week?
+The different types of models that are available to use.
 
-This week i learned about:
+This week I learned about:
+- Wisdom Hierarchy
+- Different theories
 
 What do I ‘now know’ that I did not before?
-
+The wisdom hierarchy and the different theories 
 What insights have I gained?
 
 What are (my/the) perceived strengths and weaknesses that i have observed?
