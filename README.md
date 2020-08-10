@@ -1,7 +1,6 @@
 # 41189-Weekly-Reflections
 # Week 1
 What have I learnt this week?
-
 In week 1 I have learnt what is a complex adaptive system and how humans play apart in these complex systems.
 
 This week i learned about:
