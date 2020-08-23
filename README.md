@@ -42,3 +42,45 @@ What were the challenges I have encountered/observed and how well (did I/my team
 What would I do better next time and with what anticipated results?
 
 What theory proved to be useful and why? What have I learnt from this?
+
+# Week 3
+
+What have I learnt this week?
+The different types of actor models that are available to use.
+
+This week I learned about:
+- Actor Models
+- Behavioural Models
+- Rule-based Models
+
+What do I ‘now know’ that I did not before?
+The wisdom hierarchy and the different theories 
+What insights have I gained?
+
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 4
+
+What have I learnt this week?
+Human-centred complex systems
+
+This week I learned about:
+- System Dynamics
+- Agent-based Models
+- Networks
+
+What do I ‘now know’ that I did not before?
+The different types of networks
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
