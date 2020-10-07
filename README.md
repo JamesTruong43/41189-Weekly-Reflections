@@ -84,3 +84,137 @@ What were the challenges I have encountered/observed and how well (did I/my team
 What would I do better next time and with what anticipated results?
 
 What theory proved to be useful and why? What have I learnt from this?
+
+# Week 5
+
+What have I learnt this week?
+Different types of Distributions
+Linear Models
+
+This week I learned about:
+- Probability Distribution
+- Normal Distribution
+- Long-Tailed Distribution
+
+What do I ‘now know’ that I did not before?
+Linear Models
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 6
+
+What have I learnt this week?
+Population Models
+
+This week I learned about:
+- Percolation
+- Riots
+- Broadcast
+- Diffusion
+- Contagion
+
+What do I ‘now know’ that I did not before?
+The different types of population models
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 7
+
+What have I learnt this week?
+Complexity and Emergent Behaviour
+
+This week I learned about:
+- Segregation and Peer Effects
+- Replicartor Dynamics
+
+What do I ‘now know’ that I did not before?
+The Coordination Model
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 8
+
+What have I learnt this week?
+Complexity and Emergent Behaviour
+
+This week I learned about:
+- Prisoners' Dilemma 
+- Colonel BLotto Game
+- Collective Action Problems
+
+What do I ‘now know’ that I did not before?
+The different types of networks
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 9
+
+What have I learnt this week?
+
+This week I learned about:
+
+
+What do I ‘now know’ that I did not before?
+
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 10
+
+What have I learnt this week?
+
+
+This week I learned about:
+
+
+What do I ‘now know’ that I did not before?
+
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
+
+# Week 11
+
+What have I learnt this week?
+
+
+This week I learned about:
+
+What do I ‘now know’ that I did not before?
+
+What are (my/the) perceived strengths and weaknesses that i have observed?
+
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+What would I do better next time and with what anticipated results?
+
+What theory proved to be useful and why? What have I learnt from this?
