@@ -34,7 +34,7 @@ This week I learned about:
 What do I ‘now know’ that I did not before?
 The wisdom hierarchy and the different theories 
 What insights have I gained?
-
+Many Model Thinking and Model Forms
 What are (my/the) perceived strengths and weaknesses that i have observed?
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
@@ -77,6 +77,8 @@ This week I learned about:
 
 What do I ‘now know’ that I did not before?
 The different types of networks
+What insights have I gained?
+
 What are (my/the) perceived strengths and weaknesses that i have observed?
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
