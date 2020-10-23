@@ -17,7 +17,7 @@ The different Levels of complexity.
 What are (my/the) perceived strengths and weaknesses that i have observed?
 I'm not sure what my percieved strengths are as it is still the first week of the Unit.
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+I haven't encoutered any troubles as of yet, since the group have not been allocated.
 What would I do better next time and with what anticipated results?
 
 What theory proved to be useful and why? What have I learnt from this?
@@ -38,7 +38,7 @@ What insights have I gained?
 What are (my/the) perceived strengths and weaknesses that i have observed?
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
+I haven't encoutered any troubles as of yet, since the group have not been allocated.
 What would I do better next time and with what anticipated results?
 
 What theory proved to be useful and why? What have I learnt from this?
